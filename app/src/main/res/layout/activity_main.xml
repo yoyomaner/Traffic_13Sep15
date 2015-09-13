@@ -23,7 +23,7 @@
         android:layout_alignParentBottom="true"
         android:textSize="35sp"
         android:textColor="@color/text1"
-        android:background="#af5cc3" />
+        android:background="#bb65d0" />
 
     <ListView
         android:layout_width="wrap_content"
